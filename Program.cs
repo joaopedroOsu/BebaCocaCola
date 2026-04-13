@@ -1,0 +1,10 @@
+﻿Console.ForegroundColor = ConsoleColor.White;
+Console.BackgroundColor = ConsoleColor.Red;
+Console.WriteLine("beba");
+Console.WriteLine("       coca cola");
+Console.WriteLine("     babe     cola");
+Console.WriteLine("   beba   coca");
+Console.WriteLine(" babe     cola");
+Console.WriteLine("caco   caco   cola");
+Console.WriteLine("     c l o a c a");
+Console.ResetColor();
